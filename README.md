@@ -8,6 +8,3 @@ Para a criação deste e-book, utilizei a versão gratuita do ChatGPT como apoio
 
 ## 🧐 Processo de Criação
 Após concluir as aulas sobre Inteligência Artificial, senti-me inspirada a desenvolver um e-book com esse tema. A criação foi simples, pois os tópicos que eu gostaria de abordar já estavam bem definidos. Utilizei a versão gratuita do ChatGPT como apoio para pesquisa, desenvolvimento das ideias e também para a geração de imagens. O ChatGPT se mostrou uma ferramenta muito versátil para esse tipo de trabalho. Em seguida, organizei todo o conteúdo e a estrutura visual no Canva.
-
-## 🚀 Resultados
-
