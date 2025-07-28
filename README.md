@@ -39,7 +39,7 @@ Me chamo Priscila e sou uma pessoa apaixonada por música, área na qual atuo pr
 
 ## 📥 Acesse o E-book
 
-📄 [Clique aqui para visualizar ou baixar o PDF](./ebook.pdf)
+📄 [Clique aqui para visualizar ou baixar o PDF]([./ebook.pdf](https://github.com/MirandaPri/DesafioDIO1/commit/951aa2b2e9d460972845bdcd64df0ad0ea2fbe83))
 
 ---
 
