@@ -45,7 +45,7 @@ Me chamo Priscila e sou uma pessoa apaixonada por música, área na qual atuo pr
 
 ## 🖼️ Capa do E-book
 
-![Capa do e-book](./images/capa-ebook.jpg)
+![Capa do e-book](capa-ebook.jpg)
 
 ---
 
